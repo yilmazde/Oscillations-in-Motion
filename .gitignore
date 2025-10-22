@@ -1,0 +1,6 @@
+# TeX files other than .tex #
+###################
+*.log
+*.aux
+*.pdf
+*.synctex.gz
