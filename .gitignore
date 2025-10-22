@@ -4,3 +4,7 @@
 *.aux
 *.pdf
 *.synctex.gz
+
+# Mac Metadata #
+###################
+*.DS_Store
